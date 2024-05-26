@@ -1,0 +1,274 @@
+{
+  "id": 113218,
+  "nickname": "xomya4ok",
+  "avatar": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+  "image": {
+    "x160": "https://desu.shikimori.one/system/users/x160/113218.png?1541198303",
+    "x148": "https://desu.shikimori.one/system/users/x148/113218.png?1541198303",
+    "x80": "https://desu.shikimori.one/system/users/x80/113218.png?1541198303",
+    "x64": "https://desu.shikimori.one/system/users/x64/113218.png?1541198303",
+    "x48": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+    "x32": "https://desu.shikimori.one/system/users/x32/113218.png?1541198303",
+    "x16": "https://desu.shikimori.one/system/users/x16/113218.png?1541198303"
+  },
+  "last_online_at": "2024-05-20T01:45:46.210+03:00",
+  "url": "https://shikimori.one/xomya4ok",
+  "name": null,
+  "sex": "male",
+  "full_years": 23,
+  "last_online": "в сети: 20 мая 2024",
+  "website": "vk.com/xomya4ok2",
+  "location": null,
+  "banned": false,
+  "about": "",
+  "about_html": "",
+  "common_info": [
+    "муж.",
+    "23 года",
+    "\u003ca class=\"website\" href=\"http://vk.com/xomya4ok2\"\u003evk.com\u003c/a\u003e",
+    "на сайте с \u003cspan class='b-tooltipped dotted mobile unprocessed' data-direction='right' title='18 сентября 2016 г.'\u003e2016 г.\u003c/span\u003e"
+  ],
+  "show_comments": true,
+  "in_friends": true,
+  "is_ignored": false,
+  "stats": {
+    "statuses": {
+      "anime": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 15,
+          "type": "Anime"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching,rewatching",
+          "name": "watching",
+          "size": 9,
+          "type": "Anime"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 362,
+          "type": "Anime"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 79,
+          "type": "Anime"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Anime"
+        }
+      ],
+      "manga": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching,rewatching",
+          "name": "watching",
+          "size": 1,
+          "type": "Manga"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Manga"
+        }
+      ]
+    },
+    "full_statuses": {
+      "anime": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 15,
+          "type": "Anime"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching",
+          "name": "watching",
+          "size": 9,
+          "type": "Anime"
+        },
+        {
+          "id": 9,
+          "grouped_id": "rewatching",
+          "name": "rewatching",
+          "size": 0,
+          "type": "Anime"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 362,
+          "type": "Anime"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 79,
+          "type": "Anime"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Anime"
+        }
+      ],
+      "manga": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching",
+          "name": "watching",
+          "size": 1,
+          "type": "Manga"
+        },
+        {
+          "id": 9,
+          "grouped_id": "rewatching",
+          "name": "rewatching",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Manga"
+        }
+      ]
+    },
+    "scores": {
+      "anime": [
+        { "name": "10", "value": 19 },
+        { "name": "9", "value": 24 },
+        { "name": "8", "value": 74 },
+        { "name": "7", "value": 63 },
+        { "name": "6", "value": 25 },
+        { "name": "5", "value": 9 },
+        { "name": "4", "value": 8 }
+      ],
+      "manga": []
+    },
+    "types": {
+      "anime": [
+        { "name": "Сериал", "value": 342 },
+        { "name": "Фильм", "value": 37 },
+        { "name": "OVA", "value": 32 },
+        { "name": "ONA", "value": 8 },
+        { "name": "Спешл", "value": 23 },
+        { "name": "TV Спешл", "value": 7 },
+        { "name": "Реклама", "value": 1 }
+      ],
+      "manga": [
+        { "name": "Манга", "value": 1 },
+        { "name": "Ранобэ", "value": 1 },
+        { "name": "Додзинси", "value": 1 }
+      ]
+    },
+    "ratings": {
+      "anime": [
+        { "name": "G", "value": 7 },
+        { "name": "PG", "value": 3 },
+        { "name": "PG-13", "value": 323 },
+        { "name": "R-17", "value": 68 },
+        { "name": "R+", "value": 48 },
+        { "name": "Rx", "value": 1 }
+      ]
+    },
+    "has_anime?": true,
+    "has_manga?": true,
+    "genres": [],
+    "studios": [],
+    "publishers": [],
+    "activity": [
+      { "name": [1503522000, 1511557198], "value": 92 },
+      { "name": [1511557199, 1519592397], "value": 47 },
+      { "name": [1519592398, 1527627596], "value": 49 },
+      { "name": [1527627597, 1535662795], "value": 71 },
+      { "name": [1535662796, 1543697994], "value": 76 },
+      { "name": [1543697995, 1551733193], "value": 39 },
+      { "name": [1551733194, 1559768392], "value": 30 },
+      { "name": [1559768393, 1567803591], "value": 4 },
+      { "name": [1567803592, 1575838790], "value": 13 },
+      { "name": [1575838791, 1583873989], "value": 13 },
+      { "name": [1583873990, 1591909188], "value": 7 },
+      { "name": [1591909189, 1599944387], "value": 108 },
+      { "name": [1599944388, 1607979586], "value": 10 },
+      { "name": [1607979587, 1616014785], "value": 50 },
+      { "name": [1616014786, 1624049984], "value": 19 },
+      { "name": [1624049985, 1632085183], "value": 10 },
+      { "name": [1632085184, 1640120382], "value": 12 },
+      { "name": [1640120383, 1648155581], "value": 1 },
+      { "name": [1648155582, 1656190780], "value": 10 },
+      { "name": [1656190781, 1664225979], "value": 55 },
+      { "name": [1664225980, 1672261178], "value": 25 },
+      { "name": [1672261179, 1680296377], "value": 134 },
+      { "name": [1680296378, 1688331576], "value": 31 },
+      { "name": [1688331577, 1696366775], "value": 84 },
+      { "name": [1696366776, 1704401974], "value": 28 },
+      { "name": [1704401975, 1712437173], "value": 56 }
+    ]
+  },
+  "style_id": 117581
+}

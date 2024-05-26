@@ -1,0 +1,445 @@
+{
+  "id": 129127,
+  "nickname": "yui_ezic",
+  "avatar": "https://desu.shikimori.one/system/users/x48/129127.png?1503588227",
+  "image": {
+    "x160": "https://desu.shikimori.one/system/users/x160/129127.png?1503588227",
+    "x148": "https://desu.shikimori.one/system/users/x148/129127.png?1503588227",
+    "x80": "https://desu.shikimori.one/system/users/x80/129127.png?1503588227",
+    "x64": "https://desu.shikimori.one/system/users/x64/129127.png?1503588227",
+    "x48": "https://desu.shikimori.one/system/users/x48/129127.png?1503588227",
+    "x32": "https://desu.shikimori.one/system/users/x32/129127.png?1503588227",
+    "x16": "https://desu.shikimori.one/system/users/x16/129127.png?1503588227"
+  },
+  "last_online_at": "2024-05-25T14:53:11.506+03:00",
+  "url": "https://shikimori.one/yui_ezic",
+  "name": null,
+  "sex": "male",
+  "full_years": 24,
+  "last_online": "в сети: 7 минут назад",
+  "website": "",
+  "location": null,
+  "banned": false,
+  "about": "",
+  "about_html": "",
+  "common_info": [
+    "муж.",
+    "24 года",
+    "на сайте с \u003cspan class='b-tooltipped dotted mobile unprocessed' data-direction='right' title='14 декабря 2016 г.'\u003e2016 г.\u003c/span\u003e"
+  ],
+  "show_comments": true,
+  "in_friends": false,
+  "is_ignored": false,
+  "stats": {
+    "statuses": {
+      "anime": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 165,
+          "type": "Anime"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching,rewatching",
+          "name": "watching",
+          "size": 37,
+          "type": "Anime"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 446,
+          "type": "Anime"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 21,
+          "type": "Anime"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 79,
+          "type": "Anime"
+        }
+      ],
+      "manga": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching,rewatching",
+          "name": "watching",
+          "size": 4,
+          "type": "Manga"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Manga"
+        }
+      ]
+    },
+    "full_statuses": {
+      "anime": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 165,
+          "type": "Anime"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching",
+          "name": "watching",
+          "size": 34,
+          "type": "Anime"
+        },
+        {
+          "id": 9,
+          "grouped_id": "rewatching",
+          "name": "rewatching",
+          "size": 3,
+          "type": "Anime"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 446,
+          "type": "Anime"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 21,
+          "type": "Anime"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 79,
+          "type": "Anime"
+        }
+      ],
+      "manga": [
+        {
+          "id": 0,
+          "grouped_id": "planned",
+          "name": "planned",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 1,
+          "grouped_id": "watching",
+          "name": "watching",
+          "size": 4,
+          "type": "Manga"
+        },
+        {
+          "id": 9,
+          "grouped_id": "rewatching",
+          "name": "rewatching",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 2,
+          "grouped_id": "completed",
+          "name": "completed",
+          "size": 2,
+          "type": "Manga"
+        },
+        {
+          "id": 3,
+          "grouped_id": "on_hold",
+          "name": "on_hold",
+          "size": 0,
+          "type": "Manga"
+        },
+        {
+          "id": 4,
+          "grouped_id": "dropped",
+          "name": "dropped",
+          "size": 0,
+          "type": "Manga"
+        }
+      ]
+    },
+    "scores": {
+      "anime": [
+        {
+          "name": "10",
+          "value": 13
+        },
+        {
+          "name": "9",
+          "value": 57
+        },
+        {
+          "name": "8",
+          "value": 60
+        },
+        {
+          "name": "7",
+          "value": 50
+        },
+        {
+          "name": "6",
+          "value": 39
+        },
+        {
+          "name": "5",
+          "value": 49
+        },
+        {
+          "name": "4",
+          "value": 22
+        },
+        {
+          "name": "3",
+          "value": 5
+        },
+        {
+          "name": "2",
+          "value": 4
+        },
+        {
+          "name": "1",
+          "value": 5
+        }
+      ],
+      "manga": [
+        {
+          "name": "10",
+          "value": 2
+        }
+      ]
+    },
+    "types": {
+      "anime": [
+        {
+          "name": "Сериал",
+          "value": 345
+        },
+        {
+          "name": "Фильм",
+          "value": 61
+        },
+        {
+          "name": "OVA",
+          "value": 29
+        },
+        {
+          "name": "ONA",
+          "value": 20
+        },
+        {
+          "name": "Спешл",
+          "value": 36
+        },
+        {
+          "name": "TV Спешл",
+          "value": 6
+        },
+        {
+          "name": "Клип",
+          "value": 2
+        },
+        {
+          "name": "Проморолик",
+          "value": 2
+        },
+        {
+          "name": "Реклама",
+          "value": 3
+        }
+      ],
+      "manga": [
+        {
+          "name": "Манга",
+          "value": 3
+        },
+        {
+          "name": "Манхва",
+          "value": 1
+        },
+        {
+          "name": "Ранобэ",
+          "value": 2
+        }
+      ]
+    },
+    "ratings": {
+      "anime": [
+        {
+          "name": "G",
+          "value": 14
+        },
+        {
+          "name": "PG",
+          "value": 2
+        },
+        {
+          "name": "PG-13",
+          "value": 344
+        },
+        {
+          "name": "R-17",
+          "value": 112
+        },
+        {
+          "name": "R+",
+          "value": 31
+        },
+        {
+          "name": "Rx",
+          "value": 1
+        }
+      ]
+    },
+    "has_anime?": true,
+    "has_manga?": true,
+    "genres": [],
+    "studios": [],
+    "publishers": [],
+    "activity": [
+      {
+        "name": [1503522000, 1511716706],
+        "value": 181
+      },
+      {
+        "name": [1511716707, 1519911413],
+        "value": 110
+      },
+      {
+        "name": [1519911414, 1528106120],
+        "value": 124
+      },
+      {
+        "name": [1528106121, 1536300827],
+        "value": 181
+      },
+      {
+        "name": [1536300828, 1544495534],
+        "value": 143
+      },
+      {
+        "name": [1544495535, 1552690241],
+        "value": 189
+      },
+      {
+        "name": [1552690242, 1560884948],
+        "value": 206
+      },
+      {
+        "name": [1560884949, 1569079655],
+        "value": 188
+      },
+      {
+        "name": [1569079656, 1577274362],
+        "value": 112
+      },
+      {
+        "name": [1577274363, 1585469069],
+        "value": 74
+      },
+      {
+        "name": [1585469070, 1593663776],
+        "value": 33
+      },
+      {
+        "name": [1593663777, 1601858483],
+        "value": 57
+      },
+      {
+        "name": [1601858484, 1610053190],
+        "value": 23
+      },
+      {
+        "name": [1610053191, 1618247897],
+        "value": 56
+      },
+      {
+        "name": [1618247898, 1626442604],
+        "value": 29
+      },
+      {
+        "name": [1626442605, 1634637311],
+        "value": 32
+      },
+      {
+        "name": [1634637312, 1642832018],
+        "value": 31
+      },
+      {
+        "name": [1642832019, 1651026725],
+        "value": 28
+      },
+      {
+        "name": [1651026726, 1659221432],
+        "value": 90
+      },
+      {
+        "name": [1659221433, 1667416139],
+        "value": 40
+      },
+      {
+        "name": [1667416140, 1675610846],
+        "value": 19
+      },
+      {
+        "name": [1675610847, 1683805553],
+        "value": 67
+      },
+      {
+        "name": [1683805554, 1692000260],
+        "value": 61
+      },
+      {
+        "name": [1692000261, 1700194967],
+        "value": 80
+      },
+      {
+        "name": [1700194968, 1708389674],
+        "value": 50
+      },
+      {
+        "name": [1708389675, 1716584381],
+        "value": 133
+      }
+    ]
+  },
+  "style_id": 128361
+}

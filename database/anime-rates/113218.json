@@ -1,0 +1,100 @@
+[
+  {
+    "id": 73334972,
+    "score": 0,
+    "status": "completed",
+    "text": null,
+    "episodes": 12,
+    "chapters": null,
+    "volumes": null,
+    "text_html": "",
+    "rewatches": 0,
+    "created_at": "2019-11-02T23:00:53.721+03:00",
+    "updated_at": "2019-11-02T23:00:53.721+03:00",
+    "user": {
+      "id": 113218,
+      "nickname": "xomya4ok",
+      "avatar": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+      "image": {
+        "x160": "https://desu.shikimori.one/system/users/x160/113218.png?1541198303",
+        "x148": "https://desu.shikimori.one/system/users/x148/113218.png?1541198303",
+        "x80": "https://desu.shikimori.one/system/users/x80/113218.png?1541198303",
+        "x64": "https://desu.shikimori.one/system/users/x64/113218.png?1541198303",
+        "x48": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+        "x32": "https://desu.shikimori.one/system/users/x32/113218.png?1541198303",
+        "x16": "https://desu.shikimori.one/system/users/x16/113218.png?1541198303"
+      },
+      "last_online_at": "2024-05-20T01:45:46.210+03:00",
+      "url": "https://shikimori.one/xomya4ok"
+    },
+    "anime": {
+      "id": 35015,
+      "name": "Ani ni Tsukeru Kusuri wa Nai!",
+      "russian": "Нет лекарства для моего брата!",
+      "image": {
+        "original": "/system/animes/original/35015.jpg?1711940950",
+        "preview": "/system/animes/preview/35015.jpg?1711940950",
+        "x96": "/system/animes/x96/35015.jpg?1711940950",
+        "x48": "/system/animes/x48/35015.jpg?1711940950"
+      },
+      "url": "/animes/35015-ani-ni-tsukeru-kusuri-wa-nai",
+      "kind": "tv",
+      "score": "7.48",
+      "status": "released",
+      "episodes": 12,
+      "episodes_aired": 12,
+      "aired_on": "2017-04-07",
+      "released_on": "2017-06-23"
+    },
+    "manga": null
+  },
+  {
+    "id": 80384878,
+    "score": 0,
+    "status": "completed",
+    "text": null,
+    "episodes": 12,
+    "chapters": null,
+    "volumes": null,
+    "text_html": "",
+    "rewatches": 0,
+    "created_at": "2020-04-09T20:32:47.999+03:00",
+    "updated_at": "2020-04-09T20:32:47.999+03:00",
+    "user": {
+      "id": 113218,
+      "nickname": "xomya4ok",
+      "avatar": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+      "image": {
+        "x160": "https://desu.shikimori.one/system/users/x160/113218.png?1541198303",
+        "x148": "https://desu.shikimori.one/system/users/x148/113218.png?1541198303",
+        "x80": "https://desu.shikimori.one/system/users/x80/113218.png?1541198303",
+        "x64": "https://desu.shikimori.one/system/users/x64/113218.png?1541198303",
+        "x48": "https://desu.shikimori.one/system/users/x48/113218.png?1541198303",
+        "x32": "https://desu.shikimori.one/system/users/x32/113218.png?1541198303",
+        "x16": "https://desu.shikimori.one/system/users/x16/113218.png?1541198303"
+      },
+      "last_online_at": "2024-05-20T01:45:46.210+03:00",
+      "url": "https://shikimori.one/xomya4ok"
+    },
+    "anime": {
+      "id": 37779,
+      "name": "Yakusoku no Neverland",
+      "russian": "Обещанный Неверленд",
+      "image": {
+        "original": "/system/animes/original/37779.jpg?1711982147",
+        "preview": "/system/animes/preview/37779.jpg?1711982147",
+        "x96": "/system/animes/x96/37779.jpg?1711982147",
+        "x48": "/system/animes/x48/37779.jpg?1711982147"
+      },
+      "url": "/animes/z37779-yakusoku-no-neverland",
+      "kind": "tv",
+      "score": "8.5",
+      "status": "released",
+      "episodes": 12,
+      "episodes_aired": 12,
+      "aired_on": "2019-01-10",
+      "released_on": "2019-03-29"
+    },
+    "manga": null
+  }
+]
