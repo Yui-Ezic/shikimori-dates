@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function User({ user, rates }) {
+export default function User({ user }) {
   function getAgeString(age) {
     const titles = [" год", " года", " лет"];
     const cases = [2, 0, 1, 1, 1, 2];
@@ -41,18 +41,6 @@ export default function User({ user, rates }) {
               .join(" | ")}
           </p>
         </div>
-      </div>
-      <div>
-        <ul role="list" className="divide-y divide-gray-100">
-          {rates.map((rate) => (
-            <li key={rate.id}>
-              <div className="flex justify-between p-4">
-                <p className="text-lg">{rate.anime.russian}</p>
-                <p className="text-lg">{rate.anime.score}</p>
-              </div>
-            </li>
-          ))}
-        </ul>
       </div>
     </div>
   );
