@@ -3,7 +3,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"],
-      "@/database/": ["/database/*"] 
+      "@/database/": ["/database/*"],
+      "@/shikimori-api/": ["/shikimori-api/*"]
     }
   }
 }

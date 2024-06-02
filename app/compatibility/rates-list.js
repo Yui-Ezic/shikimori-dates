@@ -7,7 +7,7 @@ export default function RatesList({ rates }) {
       {rates.map((rate) => (
         <li key={rate.id}>
           <div className="flex justify-between p-4">
-            <p className="text-lg">{rate.anime.russian}</p>
+            <p className="text-lg">{rate.anime_russian_name}</p>
             <div className="flex gap-x-4">
               <p className="text-lg">{rate.score == 0 ? "-" : rate.score}</p>
             </div>

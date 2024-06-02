@@ -11,6 +11,29 @@ export default function User({ user }) {
     return age + postfix;
   }
 
+  const list_names = {
+    planned: "Запланированно",
+    watching: "Смотрит",
+    completed: "Просмотренно",
+    on_hold: "Отложенно",
+    dropped: "Брошенно",
+  };
+  const anime_lists_metadata = [];
+  user.anime_lists_metadata.forEach((anime_list_metadata) => {
+    const name_alias =
+      anime_list_metadata.name == "rewatching"
+        ? "watching"
+        : anime_list_metadata.name;
+    if (anime_lists_metadata[name_alias]) {
+      anime_lists_metadata[name_alias].size += anime_list_metadata.size;
+    } else {
+      anime_lists_metadata[name_alias] = {
+        name: list_names[name_alias],
+        size: anime_list_metadata.size,
+      };
+    }
+  });
+
   return (
     <div className="flex flex-col p-2 gap-y-2 w-6/12 bg-white border-solid border-2 border-gray-200 shadow rounded-md">
       <div className="flex gap-x-4 flex-row">
@@ -27,16 +50,9 @@ export default function User({ user }) {
             {getAgeString(user.full_years)}
           </p>
           <p className="font-normal">
-            {user.stats.statuses.anime
+            {Object.values(anime_lists_metadata)
               .map((list) => {
-                const name = {
-                  planned: "Запланированно",
-                  watching: "Смотрит",
-                  completed: "Просмотренно",
-                  on_hold: "Отложенно",
-                  dropped: "Брошенно",
-                };
-                return `${name[list.name]} (${list.size})`;
+                return `${list.name} (${list.size})`;
               })
               .join(" | ")}
           </p>

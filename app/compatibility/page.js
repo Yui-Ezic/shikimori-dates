@@ -1,17 +1,16 @@
-import { getUser } from "@/database/user/functions";
 import User from "./user";
-import { getUserRates } from "@/database/anime-rates/functions";
 import RatesList from "./rates-list";
+import { findUser, findUserRates } from "@/database/user/user";
 
 export default function Compatibility() {
   const user1Id = 129127;
   const user2Id = 113218;
 
-  const user1 = getUser(user1Id);
-  const user1Rates = getUserRates(user1Id);
+  const user1 = findUser(user1Id);
+  const user1Rates = findUserRates(user1Id);
 
-  const user2 = getUser(user2Id);
-  const user2Rates = getUserRates(user2Id);
+  const user2 = findUser(user2Id);
+  const user2Rates = findUserRates(user2Id);
 
   const ratesCompatibility = findRatesCompatibility(user1Rates, user2Rates);
 
@@ -33,8 +32,7 @@ export default function Compatibility() {
             {ratesCompatibility.interscetion.map((rate) => (
               <li key={rate.leftRate.id}>
                 <div className="flex justify-between p-4">
-                  <p className="text-lg">{rate.leftRate.anime.russian}</p>
-                  <p className="text-lg">{rate.rightRate.anime.russian}</p>
+                  <p className="text-lg">{rate.leftRate.anime_russian_name}</p>
                   <div className="flex gap-x-4">
                     <p className="text-lg">
                       {rate.leftRate.score == 0 ? "-" : rate.leftRate.score}
@@ -69,7 +67,7 @@ function findRatesCompatibility(leftRates, rightRates) {
   const rightDifference = [];
   leftRates.forEach((leftRate) => {
     const rightRate = rightRates.find(
-      (rightRate) => leftRate.anime.id == rightRate.anime.id
+      (rightRate) => leftRate.anime_id == rightRate.anime_id
     );
     if (rightRate) {
       interscetion.push({ leftRate: leftRate, rightRate: rightRate });
@@ -79,7 +77,7 @@ function findRatesCompatibility(leftRates, rightRates) {
   });
   rightRates.forEach((rightRate) => {
     const leftRate = leftRates.find(
-      (leftRate) => leftRate.anime.id == rightRate.anime.id
+      (leftRate) => leftRate.anime_id == rightRate.anime_id
     );
     if (!leftRate) {
       rightDifference.push(rightRate);
