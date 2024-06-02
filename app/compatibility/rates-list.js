@@ -9,7 +9,7 @@ export default function RatesList({ rates }) {
           <div className="flex justify-between p-4">
             <p className="text-lg">{rate.anime.russian}</p>
             <div className="flex gap-x-4">
-              <p className="text-lg">{rate.anime.score}</p>
+              <p className="text-lg">{rate.score == 0 ? "-" : rate.score}</p>
             </div>
           </div>
         </li>

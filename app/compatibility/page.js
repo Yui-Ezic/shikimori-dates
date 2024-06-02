@@ -36,8 +36,12 @@ export default function Compatibility() {
                   <p className="text-lg">{rate.leftRate.anime.russian}</p>
                   <p className="text-lg">{rate.rightRate.anime.russian}</p>
                   <div className="flex gap-x-4">
-                    <p className="text-lg">{rate.leftRate.anime.score}</p>
-                    <p className="text-lg">{rate.rightRate.anime.score}</p>
+                    <p className="text-lg">
+                      {rate.leftRate.score == 0 ? "-" : rate.leftRate.score}
+                    </p>
+                    <p className="text-lg">
+                      {rate.rightRate.score == 0 ? "-" : rate.rightRate.score}
+                    </p>
                   </div>
                 </div>
               </li>
