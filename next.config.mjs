@@ -1,7 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["desu.shikimori.one"],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "desu.shikimori.one",
+        pathname: "**",
+      },
+    ],
   },
 };
 
